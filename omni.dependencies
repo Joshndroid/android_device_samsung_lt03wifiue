@@ -1,8 +1,8 @@
 [
     {
         "remote": "github",
-        "repository": "ShevT/kernel_samsung_lt033g",
+        "repository": "Exynos5420/android_kernel_samsung_exynos5420",
         "revision": "cm-13.0",
-        "target_path": "kernel/samsung/lt033g"
+        "target_path": "kernel/samsung/exynos5420"
     }
 ]

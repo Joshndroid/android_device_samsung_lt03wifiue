@@ -20,5 +20,5 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo omni_lt033g-eng
-#sh device/samsung/lt033g/res/applypatch.sh
+add_lunch_combo omni_n1awifi-eng
+#sh device/samsung/n1awifi/res/applypatch.sh

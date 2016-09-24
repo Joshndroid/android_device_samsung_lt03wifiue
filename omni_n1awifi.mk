@@ -27,8 +27,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/init.recovery.universal5420.rc:root/init.recovery.universal5420.rc
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := omni_lt033g
-PRODUCT_DEVICE := lt033g
+PRODUCT_NAME := omni_n1awifi
+PRODUCT_DEVICE := n1awifi
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := SM-P601
+PRODUCT_MODEL := SM-P600
 PRODUCT_MANUFACTURER := Samsung
